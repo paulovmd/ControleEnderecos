@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ProjetosIFET\\ControleEnderecos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|f:\\projetosifet\\controleenderecos\\controleenderecos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|solutionrelative:controleenderecos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|f:\\projetosifet\\controleenderecos\\controleenderecos\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|solutionrelative:controleenderecos\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|f:\\projetosifet\\controleenderecos\\controleenderecos\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|solutionrelative:controleenderecos\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|f:\\projetosifet\\controleenderecos\\controleenderecos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|solutionrelative:controleenderecos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|f:\\projetosifet\\controleenderecos\\controleenderecos\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|solutionrelative:controleenderecos\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|f:\\projetosifet\\controleenderecos\\controleenderecos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2C3146-E6D3-4108-A3F2-88F76563B303}|ControleEnderecos\\ControleEnderecos.csproj|solutionrelative:controleenderecos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "ControleEnderecos\\Models\\Endereco.cs",
+              "ToolTip": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Models\\Endereco.cs",
+              "RelativeToolTip": "ControleEnderecos\\Models\\Endereco.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvwQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:49:56.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ControleEnderecos\\Models\\Cliente.cs",
+              "ToolTip": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Models\\Cliente.cs",
+              "RelativeToolTip": "ControleEnderecos\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA0wBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:32:32.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ControleEnderecos\\Models\\Usuario.cs",
+              "ToolTip": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Models\\Usuario.cs",
+              "RelativeToolTip": "ControleEnderecos\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:19:17.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Models\\Estado.cs",
+              "RelativeDocumentMoniker": "ControleEnderecos\\Models\\Estado.cs",
+              "ToolTip": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Models\\Estado.cs",
+              "RelativeToolTip": "ControleEnderecos\\Models\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:16:28.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Models\\Cidade.cs",
+              "RelativeDocumentMoniker": "ControleEnderecos\\Models\\Cidade.cs",
+              "ToolTip": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Models\\Cidade.cs",
+              "RelativeToolTip": "ControleEnderecos\\Models\\Cidade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA+wAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:03:02.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Program.cs",
+              "RelativeDocumentMoniker": "ControleEnderecos\\Program.cs",
+              "ToolTip": "F:\\ProjetosIFET\\ControleEnderecos\\ControleEnderecos\\Program.cs",
+              "RelativeToolTip": "ControleEnderecos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:11:15.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
